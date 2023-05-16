@@ -1,4 +1,4 @@
-Complete demo of this project is available in my Blog
+Complete information about this project is available in my Blog
 https://siddharthdev.hashnode.dev/implementing-a-serverless-application-with-zero-cost-in-aws
 
 
